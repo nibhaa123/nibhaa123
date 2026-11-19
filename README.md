@@ -19,11 +19,10 @@
 
 ---
 
-# 🕵️ CASE FILE 001 — WHO IS NIBHA?
+# 🕵️ WHO IS NIBHA?
 
-**Subject:** Nibha Kumari  
-**Occupation:** Full Stack Developer  
-**Specialization:** MERN Stack & Backend Engineering  
+**Name:** Nibha Kumari  
+**Specialization:** MERN Stack 
 **Current mission:** Building applications that solve real problems.
 
 Hello, curious visitor!
@@ -75,7 +74,7 @@ const nibha = {
 
 ---
 
-# 🧠 CASE FILE 002 — THE BRAIN DASHBOARD
+# 🧠   THE BRAIN DASHBOARD
 
 **Warning: Multiple processes are running simultaneously.**
 
@@ -97,7 +96,7 @@ Apparently, my brain doesn't support a single active tab.
 
 ---
 
-# 🔬 CASE FILE 003 — MY THREE IDENTITIES
+# 🔬 MY THREE IDENTITIES
 
 <div align="center">
 
@@ -120,14 +119,13 @@ Making technology more interactive and interesting.
 ### 📚 THE EXPLORER
 
 Learning beyond the boundaries of technology.
-
-`DSA` · `System Design` · `Hindi Literature` · `Communication`
+  `Hindi Literature` · `Communication` `Hindi Poetry`
 
 </div>
 
 ---
 
-# 📂 CASE FILE 004 — PROJECT EVIDENCE
+# 📂  PROJECT EVIDENCE
 
 Not every experiment is a finished product. Here's what I've been working on.
 
@@ -145,7 +143,7 @@ A sports management platform exploring player, owner and admin workflows.
 
 **Technology:** React · Node.js · Express · MongoDB · OutSystems 11
 
-### 02. Vaishnora Kraft 🛍️
+### 02. E-commerce 🛍️
 
 A separate e-commerce application focused on product and order management.
 
@@ -180,17 +178,8 @@ A productivity platform concept built around:
 - Rewards and consistency
 - HR and employee project workflows
 
-### 05. Human Avatar Ludo 🎮
 
-**Status: Creative development experiment**
-
-Exploring a Ludo-style game with full-body human avatar tokens, movement animations and interactive reactions.
-
-**Technology:** React · Vite · Three.js
-
----
-
-# 🔐 CASE FILE 005 — CLASSIFIED PROJECTS
+# 🔐  CLASSIFIED PROJECTS
 
 Some of my projects are maintained in private repositories due to development, security or project-sharing considerations.
 
@@ -212,7 +201,7 @@ I'll bring the source code, architecture, implementation details and debugging s
 
 ---
 
-# 🛠️ CASE FILE 006 — TECHNICAL EQUIPMENT
+# 🛠️  TECHNICAL EQUIPMENT
 
 <div align="center">
 
@@ -234,7 +223,7 @@ I'll bring the source code, architecture, implementation details and debugging s
 
 ---
 
-# 🧩 CASE FILE 007 — HOW I SOLVE PROBLEMS
+# 🧩  HOW I SOLVE PROBLEMS
 
 ```text
        A RANDOM IDEA
@@ -270,7 +259,7 @@ My development philosophy:
 
 ---
 
-# 📡 CASE FILE 008 — CURRENT TRANSMISSION
+# 📡  CURRENT TRANSMISSION
 
 **Currently upgrading:**
 
@@ -286,13 +275,12 @@ My development philosophy:
 
 ---
 
-# 📊 CASE FILE 009 — GITHUB INTELLIGENCE
+# 📊  GITHUB INTELLIGENCE
 
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nibhaa123&show_icons=true&hide_border=true&bg_color=F5F9FF&title_color=2455A4&icon_color=4D8DDB&text_color=344B6B" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibhaa123&layout=compact&hide_border=true&bg_color=F5F9FF&title_color=2455A4&text_color=344B6B" />
 
 <br/>
 
@@ -302,31 +290,35 @@ My development philosophy:
 
 ---
 
-# 🐍 CASE FILE 010 — CONTRIBUTION TRACKER
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/nibhaa123/nibhaa123/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
-
-</div>
-
----
-
-# 💌 CASE FILE 011 — CONTACT THE DEVELOPER
+# 💌  CONTACT THE DEVELOPER
 
 Interested in collaborating, discussing a project or exploring opportunities?
 
-Let's connect!
 
 <div align="center">
 
-<a href="https://github.com/nibhaa123">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-2455A4?style=for-the-badge&logo=github&logoColor=white" />
+## 💌 LET'S CONNECT
+
+<a href="linkedin.com/in/nibha-kumari-142b39338">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- Add your LinkedIn and portfolio badges here when ready. -->
+<a href="mailto:nibhakumari78642@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/nibhaa123">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-2455A4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Have an opportunity? My inbox is open! 🚀**
 
 </div>
+
 
 ---
 
