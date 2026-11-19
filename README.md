@@ -285,11 +285,7 @@ My development philosophy:
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nibhaa123&show_icons=true&hide_border=true&bg_color=F5F9FF&title_color=2455A4&icon_color=4D8DDB&text_color=344B6B" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibhaa123&layout=compact&hide_border=true&bg_color=F5F9FF&title_color=2455A4&text_color=344B6B" />
-
 <br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=nibhaa123&hide_border=true&background=F5F9FF&ring=2865C7&fire=4D8DDB&currStreakLabel=2455A4&sideLabels=344B6B&dates=667D9B" />
 
 </div>
 
