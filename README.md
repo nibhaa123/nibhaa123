@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:EDF5FF,50:8DBBFF,100:2455A4&text=NIBHA.EXE&fontColor=173B70&fontSize=65&fontAlignY=38&desc=A%20Developer%20in%20Progress&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:EDF5FF,50:8DBBFF,100:2455A4&text=NIBHA&fontColor=173B70&fontSize=65&fontAlignY=38&desc=A%20Developer%20in%20Progress&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/nibhaa123">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=2865C7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Creative+Problem+Solver;Building+Ideas+Into+Real+Applications;Engineer+by+Logic.+Creator+by+Curiosity." />
