@@ -95,10 +95,10 @@ const nibha = {
 
 | THE ENGINEER ⚙️ | THE CREATOR 🎨 | THE EXPLORER 🚀 |
 |---|---|---|
-| APIs & Backend | 3D Experiences | 
-| Database Design | Interactive UI |
-| Authentication | Animations | New Technologies |
-| Application Security | Product Ideas | Hindi Literature |
+| APIs & Backend | 3D Experiences |  New Technologies |
+| Database Design | Interactive UI |  Hindi Literature |
+| Authentication | Animations | Hindi Poetry
+| Application Security | Product Ideas 
 
 </div>
 
