@@ -1,6 +1,6 @@
 
 <!-- ========================================= -->
-<!-- NIBHA.EXE | PERSONAL DIGITAL UNIVERSE -->
+<!-- NIBHA | PERSONAL DIGITAL UNIVERSE -->
 <!-- ========================================= -->
 
 <div align="center">
@@ -82,7 +82,6 @@ const nibha = {
 | Backend Architecture | Always running |
 | React & MERN | Building mode |
 | Three.js & 3D | Creative mode |
-| DSA & Problem Solving | Loading... |
 | Hindi Literature | Never closing this tab |
 | New Project Ideas | Too many tabs detected! |
 
@@ -96,8 +95,8 @@ const nibha = {
 
 | THE ENGINEER ⚙️ | THE CREATOR 🎨 | THE EXPLORER 🚀 |
 |---|---|---|
-| APIs & Backend | 3D Experiences | DSA |
-| Database Design | Interactive UI | System Design |
+| APIs & Backend | 3D Experiences | 
+| Database Design | Interactive UI |
 | Authentication | Animations | New Technologies |
 | Application Security | Product Ideas | Hindi Literature |
 
@@ -139,8 +138,7 @@ A portfolio experiment combining development with visual storytelling.
 
 A productivity platform built around task accountability, focus sessions, rewards and team progress.
 
-### 🎮 Human Avatar Ludo
-A creative game-development experiment exploring animated human-avatar tokens.
+
 
 ---
 
@@ -216,7 +214,7 @@ I want to understand them deeply enough to build useful, reliable software.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nibhaa123&show_icons=true&hide_border=true&bg_color=F5F9FF&title_color=2455A4&icon_color=4D8DDB&text_color=344B6B" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibhaa123&layout=compact&hide_border=true&bg_color=F5F9FF&title_color=2455A4&text_color=344B6B" />
+
 
 <img width="70%" src="https://streak-stats.demolab.com?user=nibhaa123&hide_border=true&background=F5F9FF&ring=2865C7&fire=4D8DDB&currStreakLabel=2455A4&sideLabels=344B6B&dates=667D9B" />
 
@@ -224,13 +222,8 @@ I want to understand them deeply enough to build useful, reliable software.
 
 ---
 
-## `09` — My Contribution Universe 🐍
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/nibhaa123/nibhaa123/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
 
 ---
 
